@@ -1,0 +1,26 @@
+<annotation>
+	<folder>flag</folder>
+	<filename>flag4.jpeg</filename>
+	<path>/Users/sergioquijano/Desktop/Programming/Machine Learning/ObjectDetection/TensorFlow/workspace/images/collectedImages/flag/flag4.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>318</width>
+		<height>159</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>16</ymin>
+			<xmax>236</xmax>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+</annotation>
